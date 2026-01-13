@@ -5,7 +5,7 @@ import SwiftData
 struct QuranApp: App {
     var body: some Scene {
         WindowGroup {
-            Text("QuranApp")
+            Text("QuranApp ")
         }
     }
 }

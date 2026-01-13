@@ -1,0 +1,24 @@
+{
+  "originHash" : "9a24ecbf6eb0ef537e10b0880fcd4d55e79c3d1dd065673dea9cb0c943f957cd",
+  "pins" : [
+    {
+      "identity" : "fontloader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/basambadiawara/FontLoader.git",
+      "state" : {
+        "revision" : "510acad15bc2b8e79db6cce9287b8f4df58c19bb",
+        "version" : "0.1.2"
+      }
+    },
+    {
+      "identity" : "pageview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/basambadiawara/PageView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f6990bc2b85ebf7d2b9f4b0475912703871efd66"
+      }
+    }
+  ],
+  "version" : 3
+}
